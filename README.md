@@ -3,7 +3,7 @@
 
 ##
 
-I like programming, solving problems, learning new skills, and sharing what I know with others.
+I like learning new skills, and sharing what I know with others.
 
 Check my [LinkedIn profile](https://www.linkedin.com/in/fabriciobarbacena/) for more professional information about me.
 
