@@ -7,7 +7,16 @@ I like programming, solving problems, learning new skills, and sharing what I kn
 
 Check my [LinkedIn profile](https://www.linkedin.com/in/fabriciobarbacena/) for more professional information about me.
 
-I have published some of my code as articles/tutorials on Towards Data Science and other relevant publications. You can find them all on my [Medium page](https://medium.com/@fabriciusbr). The links for the companion repositories can be found on respective article.
+I have published some of my code as articles/tutorials on Towards Data Science and other relevant publications. You can find them all on my [Medium page](https://medium.com/@fabriciusbr). The links for the each companion code repository can be found on the respective article.
+
+##
+
+
+<div align="center">
+  <a href="https://github.com/fabricius1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricius1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricius1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 
@@ -19,6 +28,8 @@ I have published some of my code as articles/tutorials on Towards Data Science a
 * [Django First Steps for Total Beginners: A Quick Tutorial](https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)
 * [Use Python Scripts to Insert CSV Data into Django Databases](https://towardsdatascience.com/use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433)
 
+## 
+
 **Articles about other Python libraries and subjects**:
 
 * [Save First, Parse Later: In Defense of a Different Approach to Web Scraping](https://betterprogramming.pub/save-first-parse-later-in-defense-of-a-different-approach-to-web-scraping-9edfe65adf04)
@@ -28,11 +39,8 @@ I have published some of my code as articles/tutorials on Towards Data Science a
 * [Search automation in Google Translate: download translations with Selenium](https://medium.com/analytics-vidhya/search-automation-in-google-translate-download-translations-with-selenium-3a8c8e136b0e)
 * [Search automation in Google Translate using basic Python](https://medium.com/analytics-vidhya/search-automation-in-google-translate-using-basic-python-aafde8040ec7)
 
-<div align="center">
-  <a href="https://github.com/fabricius1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricius1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricius1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabrício-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fabrício-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
@@ -44,12 +52,6 @@ I have published some of my code as articles/tutorials on Towards Data Science a
   <img align="center" alt="Fabrício-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Fabrício-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Fabrício-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-
- 
-<!--
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
--->
-
 </div>
   
 ##
