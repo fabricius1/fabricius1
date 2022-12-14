@@ -1,5 +1,5 @@
 ## Hello there! My name is Fabrício Barbacena
-## I'm an Certified Azure Data Engineer (DP-203) and Python / Django Software Developer
+## I'm a certified Azure Data Engineer (DP-203) and Python / Django Software Developer
 
 ##
 
